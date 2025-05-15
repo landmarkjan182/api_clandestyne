@@ -37,5 +37,5 @@ As informações são salvas automaticamente nos arquivos `.txt`, permitindo que
 
 - Mateus Yuri Koike  
 - João Victor Brandão  
-- Gabriel Eyji
-e
+- Gabriel Eiji Nakandakari Shinkae
+
